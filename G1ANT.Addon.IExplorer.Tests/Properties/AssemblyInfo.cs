@@ -14,11 +14,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("G1ANT.Addon.IExplorer")]
+[assembly: AssemblyTitle("G1ANT.Addon.IExplorer.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("G1ANT.Addon.IExpolorer")]
+[assembly: AssemblyProduct("G1ANT.Addon.IExplorer.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -29,7 +29,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cea69d5a-91c9-43d9-8928-f41d69e85baf")]
+[assembly: Guid("ff7591d8-eae0-4f74-90b0-ecbbd972cb41")]
 
 // Version information for an assembly consists of the following four values:
 //
